@@ -13,9 +13,28 @@
         android:layout_height="wrap_content"
         android:text="@string/lesson_4"
         android:textSize="@dimen/Text_size"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/materialButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/app_name"
+        android:text="@string/this_button"
+        app:layout_constraintBottom_toTopOf="@+id/guideline4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline4" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintGuide_percent="0.5" />
+
 
     <RadioGroup
         android:id="@+id/radioButtons"
@@ -39,6 +58,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView" />
 
         <com.google.android.material.radiobutton.MaterialRadioButton
+
             android:id="@+id/materialRadioButtonGreen"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -59,8 +79,9 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/materialRadioButton2" />
+
         <com.google.android.material.radiobutton.MaterialRadioButton
-            android:id="@+id/materialRadioButtonRea"
+            android:id="@+id/materialRadioButtonRed"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/my_themes_Red"
