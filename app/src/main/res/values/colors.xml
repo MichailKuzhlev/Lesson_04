@@ -39,8 +39,8 @@
     <color name="Red_700">#FF898E</color>
     <color name="Red_T_200">#DA0379</color>
     <color name="Red_T_700">#87013B</color>
-    <color name="Red_black">#FF000000</color>
-    <color name="Red_white">#FFFFFFFF</color>
+    <color name="Red_black">#391D1D</color>
+    <color name="Red_white">#D8BBBB</color>
 
 
 </resources>

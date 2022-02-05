@@ -28,7 +28,7 @@
 
 
         <com.google.android.material.radiobutton.MaterialRadioButton
-            android:id="@+id/materialRadioButton"
+            android:id="@+id/materialRadioButtonSpaceGray"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/my_themes_Space_Gray"
@@ -39,7 +39,7 @@
             app:layout_constraintTop_toBottomOf="@+id/textView" />
 
         <com.google.android.material.radiobutton.MaterialRadioButton
-            android:id="@+id/materialRadioButton2"
+            android:id="@+id/materialRadioButtonGreen"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/my_themes_green"
@@ -50,7 +50,7 @@
             app:layout_constraintTop_toBottomOf="@+id/materialRadioButton" />
 
         <com.google.android.material.radiobutton.MaterialRadioButton
-            android:id="@+id/materialRadioButton3"
+            android:id="@+id/materialRadioButtonBlue"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/my_themes_blue"
@@ -60,7 +60,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/materialRadioButton2" />
         <com.google.android.material.radiobutton.MaterialRadioButton
-            android:id="@+id/materialRadioButton4"
+            android:id="@+id/materialRadioButtonRea"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/my_themes_Red"

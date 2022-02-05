@@ -45,6 +45,16 @@
         <item name="colorOnSecondary">@color/Blue_black</item>
     </style>
 
+    <style name="my_themes_Red" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/Red_T_700</item>
+        <item name="colorPrimaryVariant">@color/Red_200</item>
+        <item name="colorOnPrimary">@color/Red_white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/Red_T_700</item>
+        <item name="colorSecondaryVariant">@color/Red_T_200</item>
+        <item name="colorOnSecondary">@color/Red_black</item>
+    </style>
+
 
 
 </resources>
