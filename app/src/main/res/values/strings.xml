@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Lesson_04</string>
     <string name="lesson_4">Lesson 4</string>
-    <string name="my_themes_spacegray">My Themes SpaceGray</string>
+    <string name="my_themes_Space_Gray">My Themes Space Gray</string>
     <string name="my_themes_green">My Themes Green</string>
     <string name="my_themes_blue">My Themes Blue</string>
 </resources>

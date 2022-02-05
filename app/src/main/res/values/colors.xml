@@ -7,4 +7,40 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <color name="Space_200">#FFBB86FC</color>
+    <color name="Space_500">#FF6200EE</color>
+    <color name="Space_700">#FF3700B3</color>
+    <color name="Space_Gray_200">#FF03DAC5</color>
+    <color name="Space_Gray_700">#FF018786</color>
+    <color name="Space_black">#FF000000</color>
+    <color name="Space_white">#FFFFFFFF</color>
+
+
+    <color name="Green_200">#FFBB86FC</color>
+    <color name="Green_500">#FF6200EE</color>
+    <color name="Green_700">#FF3700B3</color>
+    <color name="Green_T_200">#FF03DAC5</color>
+    <color name="Green_T_700">#FF018786</color>
+    <color name="Green_black">#FF000000</color>
+    <color name="Green_white">#FFFFFFFF</color>
+
+    <color name="Blue_200">#FFBB86FC</color>
+    <color name="Blue_500">#FF6200EE</color>
+    <color name="Blue_700">#FF3700B3</color>
+    <color name="Blue_T_200">#FF03DAC5</color>
+    <color name="Blue_T_700">#FF018786</color>
+    <color name="Blue_black">#FF000000</color>
+    <color name="Blue_white">#FFFFFFFF</color>
+
+    <color name="Red_200">#FFBB86FC</color>
+    <color name="Red_500">#FF6200EE</color>
+    <color name="Red_700">#FF3700B3</color>
+    <color name="Red_T_200">#FF03DAC5</color>
+    <color name="Red_T_700">#FF018786</color>
+    <color name="Red_black">#FF000000</color>
+    <color name="Red_white">#FFFFFFFF</color>
+
+
 </resources>
